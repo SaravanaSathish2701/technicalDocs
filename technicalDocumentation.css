@@ -1,0 +1,29 @@
+.container{
+    display: grid;
+    grid-template-columns: 20% 80%;
+}
+
+.sidebar{
+    display: grid;
+    background-color: lightgrey;
+}
+
+.background{
+    background-color: orange;
+    padding:15px;
+}
+
+.basics{
+      padding: 10px;
+      border: 2px;
+      margin: 2px;
+      font-size: medium;
+}
+
+.basics a{
+    color: black;
+}
+
+.content{
+    font-size: large;
+}
